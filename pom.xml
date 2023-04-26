@@ -177,7 +177,7 @@
     <dependency>
       <groupId>org.restlet.jse</groupId>
       <artifactId>org.restlet</artifactId>
-      <version>${restlet.version}</version>
+      <version>3.0-M1</version>
     </dependency>
     <dependency>
       <groupId>org.restlet.jee</groupId>
